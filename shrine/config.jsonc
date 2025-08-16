@@ -19,7 +19,7 @@
   ],
   "logo":{
     "type":"kitty",
-    "source":"./sukuna.png"
+    "source":"~/.config/fastfetch/sukuna.png"
   },
   "display":{
     "separator":" ➔ ",

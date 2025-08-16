@@ -31,7 +31,7 @@
   ],
   "logo":{
     "type":"kitty",
-    "source":"./logo.png"
+    "source":"~/.config/fastfetch/logo.png"
   },
   "display":{
     "separator":" — ",
